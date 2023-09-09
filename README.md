@@ -1,7 +1,7 @@
 # NCProtectedAnimalCatalog
 Welcome to the NC Protected Animals Catalog – a plethora of animal knowledge! 🦁🌿
 
-![The interface upon opening the program]((https://imgur.com/a/7vuhkmI))
+![The interface upon opening the program](https://imgur.com/gallery/5jIaIVx)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -25,7 +25,7 @@ of wildlife, search for unique animals, and discover fascinating facts about the
 - **Fun Facts**: Discover interesting and quirky facts about our furry, feathered, and scaly friends.
 - **Statistics**: Get insights into the demographics of the protected animal species in NC.
 
-![A preview of what a specific search looks like](https://imgur.com/a/glBaw7F)
+![A preview of what a specific search looks like](https://imgur.com/gallery/k50JmF4)
   
 ## Usage
 
@@ -36,11 +36,4 @@ of wildlife, search for unique animals, and discover fascinating facts about the
 5. Select "reset" if you want to go back and see a different animal.
 
 ![A prieview of a search with multiple results](https://imgur.com/a/2afKI7R)
-
-## Installation
-
-No installation needed! Simply run the Java program, and the jungle of knowledge awaits you.
-
-```bash
-java NCProtectedAnimalsCatalogGUI <filename>
 
