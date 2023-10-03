@@ -1,13 +1,14 @@
 # NCProtectedAnimalCatalog
 Welcome to the NC Protected Animals Catalog – a plethora of animal knowledge! 🦁🌿
 
-![The interface upon opening the program](https://imgur.com/gallery/5jIaIVx)
+![The interface upon opening the program]!(https://github.com/Johnny-OShea/NCProtectedAnimalCatalog/assets/134244395/2b7487d9-9ea1-4738-84b9-56798ebeaea1)
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Usage](#usage)
-4. [Installation](#installation)
+3. [Skills Demonstrated](#skills)
+4. [Usage](#usage)
 
 ## Introduction
 
@@ -25,7 +26,14 @@ of wildlife, search for unique animals, and discover fascinating facts about the
 - **Fun Facts**: Discover interesting and quirky facts about our furry, feathered, and scaly friends.
 - **Statistics**: Get insights into the demographics of the protected animal species in NC.
 
-![A preview of what a specific search looks like](https://imgur.com/gallery/k50JmF4)
+![A preview of what a specific search looks like](https://github.com/Johnny-OShea/NCProtectedAnimalCatalog/assets/134244395/196c02c5-9088-4e82-b1bb-6eec138f3e50)
+
+## Skills Demonstrated
+- This program is an excelent display of the java programming language and OOP capabilities.
+- There are multiple ENUMs used to simplify accessing unique parts of an animal.
+- The program takes use of linear data structures such as an array-based list for an efficient solution.
+- Models a database and transforms a surplus amount of data into useful information.
+- Implements a custom UI built fully from scratch using the GUI frameworks. 
   
 ## Usage
 
@@ -35,5 +43,5 @@ of wildlife, search for unique animals, and discover fascinating facts about the
 4. Enjoy fun facts, pictures, and statistics about North Carolina's protected animals.
 5. Select "reset" if you want to go back and see a different animal.
 
-![A prieview of a search with multiple results](https://imgur.com/a/2afKI7R)
+![A prieview of a search with multiple results](https://github.com/Johnny-OShea/NCProtectedAnimalCatalog/assets/134244395/09277d4a-d4cb-4a5a-b7c1-2e970feefcc8)
 
