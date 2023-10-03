@@ -1,7 +1,7 @@
 # NCProtectedAnimalCatalog
 Welcome to the NC Protected Animals Catalog – a plethora of animal knowledge! 🦁🌿
 
-![The interface upon opening the program]!(https://github.com/Johnny-OShea/NCProtectedAnimalCatalog/assets/134244395/2b7487d9-9ea1-4738-84b9-56798ebeaea1)
+![The interface upon opening the program](https://github.com/Johnny-OShea/NCProtectedAnimalCatalog/assets/134244395/2b7487d9-9ea1-4738-84b9-56798ebeaea1)
 
 
 ## Table of Contents
